@@ -15,4 +15,5 @@ Currently, we are exploring the following two approaching: one based on sequenti
 
 The following list shows the publications resulting from the above research.
 
+- *Mining Message Flows from System-on-Chip Execution Traces*, MD Rubel Ahmed, H Zheng, P Mukherjee, M Ketkar, Jin Yang, ISQED, March, 2021.
 - *Mining Message flows using Recurrent Nueral Networks for System-on-chip Design Validation*, Y Cao, P Mukherjee, M Ketkar, Jin Yang, H Zheng, ISQED, March, 2020.
