@@ -15,5 +15,8 @@ Currently, we are exploring the following two approaching: one based on sequenti
 
 The following list shows the publications resulting from the above research.
 
+- *Mining Patterns from Concurrent Execution Traces*, MD Rubel Ahmed, H Zheng, P Mukherjee, M Ketkar, Jin Yang, IEEE TCAD, to appear.
+- *Model Synthesis for Communication Traces of System Designs*, H Zheng, MD Rubel Ahmed, P Mukherjee, M Ketkar, Jin Yang, ICCD, October, 2021.
+- *A Comparative Study of Specification Mining Methods for SoC Communication Traces*, MD Rubel Ahmed, H Zheng, P Mukherjee, M Ketkar, Jin Yang, ISVLSI, July, 2021
 - *Mining Message Flows from System-on-Chip Execution Traces*, MD Rubel Ahmed, H Zheng, P Mukherjee, M Ketkar, Jin Yang, ISQED, March, 2021.
 - *Mining Message flows using Recurrent Nueral Networks for System-on-chip Design Validation*, Y Cao, P Mukherjee, M Ketkar, Jin Yang, H Zheng, ISQED, March, 2020.
